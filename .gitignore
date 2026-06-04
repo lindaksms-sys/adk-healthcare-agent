@@ -2,36 +2,33 @@
 .env
 .env.*
 !.env.example
-
 # Python
 __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
 .python-version
-
 # Virtual environments
 .venv/
 venv/
 env/
-
 # Build / packaging
 build/
 dist/
 *.egg-info/
-
 # Test / cache
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
 .coverage
 htmlcov/
-
 # Jupyter
 .ipynb_checkpoints/
-
 # OS / editor
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
+# Local ADK
+.adk/
+**/.adk/
