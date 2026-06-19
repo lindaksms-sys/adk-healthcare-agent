@@ -4,7 +4,7 @@ Live demo: https://copilot.creativehauz.space
 
 Test account:
 - Email: info@creativehauz.space
-- Password: Duduzile20!
+- Password: HerFlow2026!
 
 Notes:
 - Use the demo account for judging only.
